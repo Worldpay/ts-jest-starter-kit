@@ -4,5 +4,5 @@
 
 ```
 npm i
-npm test:watch
+npm start
 ```
